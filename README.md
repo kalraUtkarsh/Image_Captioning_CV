@@ -5,5 +5,8 @@ Links for the Datasets:
  1. https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Flickr8k_Dataset.zip
  2. https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Flickr8k_text.zip
  3. https://cocodataset.org/#home
+ 
+
+
 Video Link:
 https://drive.google.com/drive/folders/1R3R6HiZGtAdhPfkxi2nkdE_T8JfhcIs7?usp=sharing
